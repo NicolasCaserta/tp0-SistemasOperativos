@@ -1,0 +1,22 @@
+[INFO] 22:49:02:766 Servidor/(3842:3842): Servidor listo para recibir al cliente
+[INFO] 22:57:22:009 Servidor/(4102:4102): Servidor listo para recibir al cliente
+[INFO] 22:58:18:671 Servidor/(4102:4102): Se conecto un cliente!
+[INFO] 22:58:18:672 Servidor/(4102:4102): Me llego el mensaje valor
+[INFO] 22:58:24:151 Servidor/(4102:4102): Me llegaron los siguientes valores:
+
+[ERROR] 22:58:24:151 Servidor/(4102:4102): el cliente se desconecto. Terminando servidor
+[INFO] 23:00:15:996 Servidor/(4234:4234): Servidor listo para recibir al cliente
+[INFO] 23:00:32:642 Servidor/(4234:4234): Se conecto un cliente!
+[INFO] 23:00:32:642 Servidor/(4234:4234): Me llego el mensaje valor
+[INFO] 23:00:37:208 Servidor/(4234:4234): Me llegaron los siguientes valores:
+
+[ERROR] 23:00:37:209 Servidor/(4234:4234): el cliente se desconecto. Terminando servidor
+[INFO] 23:01:41:066 Servidor/(4295:4295): Servidor listo para recibir al cliente
+[INFO] 23:01:46:888 Servidor/(4295:4295): Se conecto un cliente!
+[INFO] 23:01:46:889 Servidor/(4295:4295): Me llego el mensaje valor
+[INFO] 23:01:51:860 Servidor/(4295:4295): Me llegaron los siguientes valores:
+
+[INFO] 23:01:51:860 Servidor/(4295:4295): dede
+[INFO] 23:01:51:860 Servidor/(4295:4295): ded
+[INFO] 23:01:51:860 Servidor/(4295:4295): de
+[ERROR] 23:01:51:860 Servidor/(4295:4295): el cliente se desconecto. Terminando servidor
